@@ -29,4 +29,4 @@ A distributed mobile-to-cloud trivia application using the [Open Trivia Database
 - `ROOT.war` — deployable web service
 - `TriviaWebService-IntelliJ.zip` — IntelliJ web service project
 - `TriviaQuiz-AndroidApp.zip` — Android Studio project
-- `writeup.pdf` — project writeup
+- `Project 4 Task 2 Writeup.pdf` — project writeup
